@@ -26,4 +26,4 @@ Have you ever wondered when the best time of year to book a hotel room is? Or th
 
 5)Room type ‘A’ is most preferred by the guests
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-jagtap-b93a771a/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/akash-bhor-b62503149/])
